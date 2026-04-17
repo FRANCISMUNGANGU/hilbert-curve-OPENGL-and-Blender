@@ -1,9 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 17 21:36:48 2026
-
-@author: benz0
-"""
+# Group 5
+# Benzil Emmanuel - SCT211-0463/2023
+# Francis Mung'ang'u - SCT211-0032/2023
 
 import turtle
 
